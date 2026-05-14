@@ -1,6 +1,6 @@
 cask "xmas-sbx-ui" do
-  version "0.1.0"
-  sha256 "PLACEHOLDER"
+  version "0.3.0"
+  sha256 "d01644c23f3094247047f91a6347d92b60195e6c398f448bce9338259eb34217"
 
   url "https://github.com/docker/xmas-sbx-ui/releases/download/v#{version}/sbx-ui_#{version}_aarch64.dmg"
   name "Docker Sandboxes"
