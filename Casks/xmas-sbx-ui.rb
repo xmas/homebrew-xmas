@@ -1,6 +1,6 @@
 cask "xmas-sbx-ui" do
-  version "0.4.0"
-  sha256 "2c8f737f52683e382f2172cdb653b7ced123e384801303a23f25bb0354eafb61"
+  version "0.4.1"
+  sha256 "01f4778985031f15bf43c82e3acc55354cd5aaa4ce8b1f25d3d257e4467452cb"
 
   url "https://github.com/xmas/homebrew-xmas/releases/download/v#{version}/sbx-ui_#{version}_aarch64.dmg"
   name "Docker Sandboxes"
