@@ -1,8 +1,8 @@
 cask "sandshell" do
-  version "0.14.20"
-  sha256 "c8bc43b2bddda75ae9f40bf0ac7ada36c6ee5a43ef2cb109bae6c18aeb5091d9"
+  version "0.15.0"
+  sha256 "903ba4d7e29053a5e72637d6ac0d5ab9c534f4dc9071c2f5e7d76d0d547bbb70"
 
-  url "https://github.com/xmas/homebrew-xmas/releases/download/v#{version}/Sandshell_0.14.20_aarch64.dmg"
+  url "https://github.com/xmas/homebrew-xmas/releases/download/v#{version}/Sandshell_0.15.0_aarch64.dmg"
   name "Sandshell"
   desc "Sandshell GUI for Docker Sandboxes (sbx)"
   homepage "https://github.com/xmas/homebrew-xmas"
