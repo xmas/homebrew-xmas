@@ -19,7 +19,7 @@ cask "sandshell" do
   conflicts_with cask: "xmas-sbx-ui"
   depends_on arch: :arm64
   depends_on cask: "docker/tap/sbx"
-  depends_on macos: :sonoma
+  depends_on macos: :golden_gate
 
   app "Sandshell.app"
   # The `sandshell` CLI opens a folder as a workspace (sandshell://open).
