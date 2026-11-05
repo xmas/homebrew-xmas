@@ -1,7 +1,7 @@
 cask "sandshell" do
   # version and sha256 are rewritten by xmas/sandshell's scripts/release.sh.
-  version "0.2.47"
-  sha256 "20b7ef9de86ec35c4896f31bccbc26494acbcd78099f2fa64d3293e4ed0bc8e9"
+  version "0.2.48"
+  sha256 "df9a17a0c24b66728dd4db5a91a2655072b7c580754f966f420f6a24d32c10c0"
 
   url "https://github.com/xmas/homebrew-xmas/releases/download/sandshell-v#{version}/Sandshell-#{version}.dmg"
   name "Sandshell"
