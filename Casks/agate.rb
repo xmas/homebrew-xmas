@@ -1,7 +1,7 @@
 cask "agate" do
   # version and sha256 are rewritten by xmas/Agate's Scripts/release.sh.
-  version "0.1.16"
-  sha256 "57ab223ad422d3b7b0a0ef4169235f7ae8db5fa279e06fda5697ae3458b62802"
+  version "0.1.17"
+  sha256 "6e133a7e0912edfb90f1f1f07ff7f98f0834b7648828b3dc25f2cc5d9f0e6951"
 
   url "https://github.com/xmas/homebrew-xmas/releases/download/agate-v#{version}/Agate-#{version}.dmg"
   name "Agate"
